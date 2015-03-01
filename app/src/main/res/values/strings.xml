@@ -7,7 +7,7 @@
     <string name="subject">Topics In Computer Science</string>
     <string name="topic">Android Development</string>
     <string name="home">Home</string>
-    <string name="hello">Hello, Android</string>
+    <string name="hello">Hello, Ian Neville</string>
     <string name="lab0">Lab 0</string>
     <string name="lab1">Lab 1</string>
     <string name="lab2">Lab 2</string>
@@ -35,5 +35,5 @@
     <string name="instructor">Instructor: Hendrix Tavarez</string>
     <string name="email">Email: lehman@lockerfish.com</string>
 
-    <string name="greetings">Hello, I am Hendrix</string>
+    <string name="greetings">You must not be afraid to dream a little bigger darling.</string>
 </resources>

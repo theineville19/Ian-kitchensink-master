@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="royalblue0">#7A96EA</color>
-    <color name="royalblue">#4169E1</color>
-    <color name="royalblue1">#4876FF</color>
+    <color name="purple_mid">#ffa913e8</color>
+    <color name="purple_light">#ffbc13ff</color>
+    <color name="purple_dark">#ff5f0c7e</color>
     <color name="royalblue2">#436EEE</color>
     <color name="royalblue3">#3A5FCD</color>
     <color name="royalblue4">#27408B</color>
